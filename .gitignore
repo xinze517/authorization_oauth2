@@ -3,3 +3,8 @@
 /client1/target/
 /client2/target/
 /res-server/target/
+.idea
+/auth-server/src/test
+/res-server/src/test
+/client1/src/test
+/client2/src/test
