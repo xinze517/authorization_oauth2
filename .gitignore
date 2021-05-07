@@ -1,0 +1,5 @@
+# Project exclude paths
+/auth-server/target/
+/client1/target/
+/client2/target/
+/res-server/target/
